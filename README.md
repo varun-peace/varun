@@ -31,11 +31,14 @@ I believe in staying grounded, being loyal, and building tech that matters. My l
 
 ## 🚀 Featured Projects
 
-### 📘 [WhyThisBook](https://github.com/varun-peace/whythisbook)
-A clean and dark-themed book recommendation platform where users can choose genres and upload custom cover images.  
-**Stack**: Flask, MySQL, HTML, CSS, JavaScript
+### [Lane detecton](https://github.com/varun-peace/Lane_detection.git)
+A safety measured project which detects lanes and helps to alert drivers and can also aids in auto driving functions
 
-### 🔋 [Solar EV Auto Station](https://github.com/varun-peace/solar-ev-auto-station) *(Coming Soon)*  
+### [FakeNewsDetection](https://github.com/varun-peace/fakenewsdetection.git)
+In this internet world, fakes spread faster than pure. So I created a project which helps user to identify the fake news from the data.
+
+
+### 🔋 [Solar EV Auto Station]*(Coming Soon)*  
 A smart energy solution for auto drivers with solar-powered charging stations and battery swapping.  
 **Stack**: Python, Firebase, IoT (Planned)
 
